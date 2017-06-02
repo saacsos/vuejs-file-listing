@@ -1,7 +1,7 @@
 {
-  "name": "file-listing",
+  "name": "vuejs-file-listing",
   "version": "1.0.0",
-  "description": "Directory Listing",
+  "description": "Directory Listing Sample Code",
   "main": "main.js",
   "scripts": {
     "compile": "webpack"
